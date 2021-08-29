@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ozpih9BgSMPNHx1ZNliIWfysDGyLV95+MmDNxZW6s27cCPmL/XNkKCT4eDgvqopeLp7Lm4Oy7LGhG0dikSqVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Xamarin Projects\\CaseStudyOne\\StudentManagement\\CaseStudyOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddhant\\.nuget\\packages\\nodatime\\3.0.5\\nodatime.3.0.5.nupkg.sha512",
+    "C:\\Users\\Siddhant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\CaseStudtyTwo.exe
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\CaseStudtyTwo.deps.json
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\CaseStudtyTwo.runtimeconfig.json
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\CaseStudtyTwo.runtimeconfig.dev.json
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\CaseStudtyTwo.dll
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\CaseStudtyTwo.pdb
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.csprojAssemblyReference.cache
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.AssemblyInfoInputs.cache
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.AssemblyInfo.cs
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.csproj.CoreCompileInputs.cache
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.dll
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.pdb
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.genruntimeconfig.cache
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\NodaTime.dll
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Xamarin Projects\CaseStudyOne\CaseStudtyTwo\obj\Debug\netcoreapp3.1\CaseStudtyTwo.csproj.CopyComplete

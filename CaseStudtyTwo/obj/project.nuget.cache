@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqtAwNElpX15pPzSsxjx7zgP8/WH9ZbxsVolUIPcaqEbywV/qJaooin0sDk9VcjqKoz0+M0wncTYmTim4sYbcA==",
+  "success": true,
+  "projectFilePath": "D:\\Xamarin Projects\\CaseStudyOne\\CaseStudtyTwo\\CaseStudtyTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddhant\\.nuget\\packages\\nodatime\\3.0.5\\nodatime.3.0.5.nupkg.sha512",
+    "C:\\Users\\Siddhant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

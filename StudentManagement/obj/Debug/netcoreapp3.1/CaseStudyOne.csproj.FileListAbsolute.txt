@@ -1,0 +1,16 @@
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\CaseStudyOne.exe
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\CaseStudyOne.deps.json
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\CaseStudyOne.runtimeconfig.json
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\CaseStudyOne.runtimeconfig.dev.json
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\CaseStudyOne.dll
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\CaseStudyOne.pdb
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.csprojAssemblyReference.cache
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.AssemblyInfoInputs.cache
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.AssemblyInfo.cs
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.csproj.CoreCompileInputs.cache
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.dll
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.pdb
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.genruntimeconfig.cache
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\NodaTime.dll
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Xamarin Projects\CaseStudyOne\StudentManagement\obj\Debug\netcoreapp3.1\CaseStudyOne.csproj.CopyComplete
